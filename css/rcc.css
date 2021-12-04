@@ -130,3 +130,10 @@ a {
 .containerTeam .cardTeam .contentTeam .sciTeam a:hover {
   color: gold;
 }
+.underlineHover:hover{
+  text-decoration: underline;
+}
+.eventDescription{
+  font-size: 14px;
+  font-weight: normal;
+}
